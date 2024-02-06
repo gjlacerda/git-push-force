@@ -1,3 +1,3 @@
 # git-push-force
 
-commit2
+commit3
